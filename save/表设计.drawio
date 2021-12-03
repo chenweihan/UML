@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T09:01:47.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="b7Xp7wt9g0Nqd6yd_RKU" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T09:15:31.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QtN4gb_ZC7HI8HNZaBg3" version="15.8.8" type="github">
   <diagram id="ocDlG8aa-odjHnIgEZOc" name="第 1 页">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1201,7 +1201,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UiWn0FZVSjnFP2bKW6-f-337" value="处理前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="950" width="50" height="20" as="geometry" />
+          <mxGeometry x="1300" y="955" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UiWn0FZVSjnFP2bKW6-f-338" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;注意：CRF和EEG文件都是一体处理的&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;这样可以确保和脑电信息一一映射关系&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="820" width="220" height="30" as="geometry" />

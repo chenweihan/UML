@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T05:29:41.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="RVtQ_GiTtSv1kbNKDuGe" version="15.8.8" type="github"><diagram id="2P-IcHf5kusqsFVMrUGf" name="第 1 页">7Zpdb5swFIZ/zbmchPk0l0BI24v1Yr2odjWx4CZoBEfEWZL++h2DSZrY1TqtAVJVqirz+iPhOf54DwScZLm7qbPV4ivPWQm2le/AmYBtE9e2Qf5Z+b5VAl8J87rIVaOj8FA8MyVaSt0UOVufNBScl6JYnYozXlVsJk60rK759rTZEy9PP3WVzZkmPMyyUlcfi1wsWpXawVG/ZcV80X0y8cO2Zpl1jdWdrBdZzrcvJCcFJ6k5F21puUtYKeF1XNp+01dqD1+sZpV4S4f7R/v77b3wA3q3CsUsv3v2f3xRo/zOyo26YRvSKcQJhBGkHlAKYSwLcQwxKhSoCyGBNIDQhdiDFP9PIULFB0ogmso2UQqx1fSaQNi2oU33thDL7niJHVsyYt/hrvmmypn8xhY48XZRCPawymaydosTDLWFWJZ4RbCYlcW8wnLJnpBArG6F1YLtXmVEDuRxyjK+ZKLeYxPVoQvevoumit32GHo/VNriRdg9pWVqts0PIx8DggUVk3+Ij63FJ/k2lawjC2ggC7EDEf0/ju8AzgnPyNk6OWoA51wKnKOBM03e0XF06cg4ugaOuNKjZl0HEHmSGip4KZc8Vk3k8h+aoxeMjKOncxyaEekAKEYHIC8Yua4Jkn0pSv6bVq3xyEHFbxQHqKexRUrCfHjMkBarUZAsCzz4I1WxLPJcdo9rti6es5/NUDIyK15UorlzLwZvIsfaCL5urYscei1q/oslvOQ47qTilRzlqSjLM+k99l33LIaeHkPTgXWxCAaGCOrxws2CQJg2igVRMPxaCE85OpZhLdgGkO6lQFLjxhsHjX3y5A6MR5fcgSeAZ4bcgR2590rYaLqSwYn6517KsAMHfe7AoXlmUolSFpIGaAjoZHDDkQpaXn9wjtrM9IeemZ0pPpuaZ/NPztGkMf0ehFP5NzaSrmFG9kxST78M7mp03Aw+gZi4+RfjpqdFaXozSjs/OnR6YjTSjNIdHTpTLuRJt4nHRHtehP4IvQ0m5389iYnX51FM9GyIfD52OgTI4OH7fepE9DxspJvE2WMngzfqNcsnpvTnCh87Dc7RnP1c3WOnwTmakp5rziINQHtNIruj89o9gIFjvxbA1lMf59MCHD1aMLQHsPUc6zo8ADEkCr1uuvZHefc0OMiP8vJpcJCGt09XbQNMRPv1AaY3VVfoA0wg38sI4OXx1y1N3YvfCDnpHw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-03T05:30:08.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nhdWdFzDZn8JksuBnAJr" version="15.8.8" type="github">
+  <diagram id="2P-IcHf5kusqsFVMrUGf" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-1" value="2：创建脑电信息记录为主线" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="69" y="110" width="690" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-2" value="CRF标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-3" value="脑电标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="489" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-4" value="投票数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="579" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="320" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-6" value="脑电信息详情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="340" y="290" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-7" value="信息属性以及状态显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="340" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-8" value="添加等操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="669" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-9" value="上传附件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="400" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-10" value="操作区域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="460" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-11" value="投票" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-12" value="EEG标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-13" value="CRF标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-14" value="其他属性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="239" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-15" value="1：创建脑电信息记录为主线" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="69" y="50" width="690" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-16" value="CRF标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-17" value="脑电标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="489" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-18" value="投票数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="579" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-19" value="添加等操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="669" y="60" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-20" value="其他属性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="239" y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-21" value="3：创建脑电信息记录为主线" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="69" y="170" width="690" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-22" value="CRF标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-23" value="脑电标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="489" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-24" value="投票数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="579" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-25" value="添加等操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="669" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2YHNt678Ip9tcdIz6_-26" value="其他属性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="239" y="180" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T08:43:01.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kkOW1jIr6RkFcHbpJa6e" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T08:43:39.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4kgRi7QrfV0-XbBKXUWx" version="16.1.0" type="github">
   <diagram id="P6MvJYWOktU1DO3npbHA" name="第 1 页">
     <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,120 +20,120 @@
           <mxGeometry x="40" y="735" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-12" value="EEG组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="214" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-13" value="一级组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="214" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-14" value="二级组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="214" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-15" value="一级组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-16" value="二级组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-17" value="三级组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="334" y="380" as="sourcePoint" />
-            <mxPoint x="404" y="400" as="targetPoint" />
+            <mxPoint x="334" y="350" as="sourcePoint" />
+            <mxPoint x="404" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-13" target="JE-GxgBHlpS-5BZEvoe5-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="470" as="sourcePoint" />
-            <mxPoint x="534" y="380" as="targetPoint" />
+            <mxPoint x="424" y="440" as="sourcePoint" />
+            <mxPoint x="534" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="380" as="sourcePoint" />
-            <mxPoint x="500" y="300" as="targetPoint" />
+            <mxPoint x="300" y="350" as="sourcePoint" />
+            <mxPoint x="500" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-13" target="JE-GxgBHlpS-5BZEvoe5-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="310" as="sourcePoint" />
-            <mxPoint x="474" y="260" as="targetPoint" />
+            <mxPoint x="424" y="280" as="sourcePoint" />
+            <mxPoint x="474" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-12" target="JE-GxgBHlpS-5BZEvoe5-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="374" y="230" as="sourcePoint" />
-            <mxPoint x="424" y="180" as="targetPoint" />
+            <mxPoint x="374" y="200" as="sourcePoint" />
+            <mxPoint x="424" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-12" target="JE-GxgBHlpS-5BZEvoe5-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="290" as="sourcePoint" />
-            <mxPoint x="534" y="300" as="targetPoint" />
+            <mxPoint x="424" y="260" as="sourcePoint" />
+            <mxPoint x="534" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-13" target="JE-GxgBHlpS-5BZEvoe5-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="374" y="290" as="sourcePoint" />
-            <mxPoint x="424" y="240" as="targetPoint" />
+            <mxPoint x="374" y="260" as="sourcePoint" />
+            <mxPoint x="424" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-12" target="JE-GxgBHlpS-5BZEvoe5-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="384" y="220" as="sourcePoint" />
-            <mxPoint x="434" y="170" as="targetPoint" />
+            <mxPoint x="384" y="190" as="sourcePoint" />
+            <mxPoint x="434" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="334" y="380" as="sourcePoint" />
-            <mxPoint x="474" y="460" as="targetPoint" />
+            <mxPoint x="334" y="350" as="sourcePoint" />
+            <mxPoint x="474" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-39" value="组件之间无序双向通信，最终走向无底洞失控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="450" width="295" height="20" as="geometry" />
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-39" value="不同层级组件之间无序双向通信，最终会走向失控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="420" width="295" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-40" value="其他外层组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="270" width="100" height="60" as="geometry" />
+          <mxGeometry x="20" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-40" target="JE-GxgBHlpS-5BZEvoe5-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="144" y="330" as="sourcePoint" />
-            <mxPoint x="194" y="280" as="targetPoint" />
+            <mxPoint x="144" y="300" as="sourcePoint" />
+            <mxPoint x="194" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-40" target="JE-GxgBHlpS-5BZEvoe5-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="124" y="300" as="sourcePoint" />
-            <mxPoint x="194" y="320" as="targetPoint" />
+            <mxPoint x="124" y="270" as="sourcePoint" />
+            <mxPoint x="194" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-40" target="JE-GxgBHlpS-5BZEvoe5-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="134" y="400" as="sourcePoint" />
-            <mxPoint x="184" y="350" as="targetPoint" />
+            <mxPoint x="134" y="370" as="sourcePoint" />
+            <mxPoint x="184" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-44" value="其他外层组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="270" width="97" height="60" as="geometry" />
+          <mxGeometry x="700" y="240" width="97" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-44" target="JE-GxgBHlpS-5BZEvoe5-15">
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="250" as="sourcePoint" />
-            <mxPoint x="740" y="200" as="targetPoint" />
+            <mxPoint x="700" y="270" as="sourcePoint" />
+            <mxPoint x="740" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-44" target="JE-GxgBHlpS-5BZEvoe5-16">
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="400" as="sourcePoint" />
-            <mxPoint x="720" y="350" as="targetPoint" />
+            <mxPoint x="700" y="270" as="sourcePoint" />
+            <mxPoint x="720" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-44" target="JE-GxgBHlpS-5BZEvoe5-17">
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="410" as="sourcePoint" />
-            <mxPoint x="730" y="360" as="targetPoint" />
+            <mxPoint x="700" y="270" as="sourcePoint" />
+            <mxPoint x="730" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-48" value="外层组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

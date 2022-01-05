@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T08:11:36.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sblI3PS1YDs6dtFsZB9m" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T08:31:57.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YI22KDvFXrn7h7RmXwEj" version="16.1.0" type="github">
   <diagram id="P6MvJYWOktU1DO3npbHA" name="第 1 页">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1456" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-5" value="EEG标注组件 事件总线调度中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="520" width="130" height="460" as="geometry" />
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-5" value="EEG事件总线消息通知接收和调度中心&lt;br&gt;（EEG业务组件的顶层父级）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="535" width="60" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-6" value="一级子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="530" width="120" height="50" as="geometry" />
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-6" value="一级子组件A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="555" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-7" value="一级子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="740" width="120" height="50" as="geometry" />
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-7" value="更多其他子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="835" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-8" value="二级子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="600" width="120" height="50" as="geometry" />
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-8" value="二级子组件B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="645" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-11" value="二级子组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="690" width="120" height="50" as="geometry" />
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-11" value="三级子组件C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="735" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-12" value="EEG组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
@@ -91,8 +91,8 @@
             <mxPoint x="470" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JE-GxgBHlpS-5BZEvoe5-39" value="组件之间无序失控的通信" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="290" width="170" height="20" as="geometry" />
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-39" value="组件之间无序双向通信，最终走向无底洞失控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="295" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-40" value="其他外层组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="120" width="100" height="60" as="geometry" />
@@ -134,6 +134,141 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="260" as="sourcePoint" />
             <mxPoint x="760" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-48" value="外层组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="925" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-6" target="JE-GxgBHlpS-5BZEvoe5-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="615" as="sourcePoint" />
+            <mxPoint x="250" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-8" target="JE-GxgBHlpS-5BZEvoe5-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="695" as="sourcePoint" />
+            <mxPoint x="250" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="759.72" as="sourcePoint" />
+            <mxPoint x="270" y="759.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="859.72" as="sourcePoint" />
+            <mxPoint x="270" y="859.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="949.72" as="sourcePoint" />
+            <mxPoint x="270" y="949.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-55" value="发布A事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-56" value="发布B事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-57" value="发布C事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="736" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="755" as="sourcePoint" />
+            <mxPoint x="380" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="755" as="sourcePoint" />
+            <mxPoint x="380" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="755" as="sourcePoint" />
+            <mxPoint x="400" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-61" value="发布D事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="830" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-62" value="发布更多事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.033;exitY=0.482;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-5" target="JE-GxgBHlpS-5BZEvoe5-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="835" as="sourcePoint" />
+            <mxPoint x="400" y="785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="750" as="sourcePoint" />
+            <mxPoint x="410" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-55" target="JE-GxgBHlpS-5BZEvoe5-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="605" as="sourcePoint" />
+            <mxPoint x="760" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-66" value="A组件订阅了发布A事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="551.5" width="107" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-69" value="发布订阅模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="495" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-72" value="E组件订阅了发布A事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="107" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="575" as="sourcePoint" />
+            <mxPoint x="670" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-74" value="通知总线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-75" value="D组件订阅了发布B事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="735" width="107" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="675" as="sourcePoint" />
+            <mxPoint x="670" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-77" value="F组件订阅了发布D事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="830" width="107" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JE-GxgBHlpS-5BZEvoe5-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="855" as="sourcePoint" />
+            <mxPoint x="640" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-79" value="调度中心识别类型触发不同的事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-80" value="通知并告知要触发的事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="535" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-81" value="W组件订阅了发布C事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="915" width="107" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JE-GxgBHlpS-5BZEvoe5-57" target="JE-GxgBHlpS-5BZEvoe5-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="835" as="sourcePoint" />
+            <mxPoint x="650" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

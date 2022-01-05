@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T08:36:46.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jKwXV6BMTpUNm0KUT_wg" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T08:42:26.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Mwn4_Hjo016qqtPmrJVT" version="16.1.0" type="github">
   <diagram id="P6MvJYWOktU1DO3npbHA" name="第 1 页">
     <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,7 +275,10 @@
           <mxGeometry x="270" y="1020" width="295" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-84" value="&lt;div&gt;&amp;lt;EEG&amp;gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&amp;lt;MenuBar&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;gt;&amp;lt;/MenuBar&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&amp;lt;Charts&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;gt;&amp;lt;/Charts&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&amp;lt;Annotations &amp;gt;&amp;lt;/Annotations&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;	&lt;/span&gt;&amp;lt;StatusBar&amp;nbsp; &amp;nbsp;&amp;gt;&amp;lt;/StatusBar&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;/EEG&amp;gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="330" height="100" as="geometry" />
+          <mxGeometry x="10" y="10" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JE-GxgBHlpS-5BZEvoe5-85" value="&lt;span&gt;&amp;lt;Charts &amp;gt;&lt;br&gt;&amp;nbsp; &amp;lt;ChartA&amp;gt;&amp;lt;/ChartA&amp;gt;&lt;br&gt;&lt;/span&gt;&amp;nbsp; &amp;lt;ChartB&amp;gt;&amp;lt;/ChartB&amp;gt;&lt;span&gt;&lt;br&gt;&amp;lt;/Charts&amp;gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

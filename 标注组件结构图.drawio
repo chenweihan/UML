@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T02:30:17.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-lMvQeySCu-2Yh_P2mNs" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T05:16:00.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="z6eD1v5psb0XA5ladpDl" version="16.2.1" type="github">
   <diagram id="P6MvJYWOktU1DO3npbHA" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XV9c2cCmJDctLByYny60-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="602" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-5" value="EEG事件总线消息通知接收和调度中心&lt;br&gt;（EEG业务组件的顶层父级）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="268" y="60" width="60" height="460" as="geometry" />
         </mxCell>
@@ -156,6 +159,60 @@
         </mxCell>
         <mxCell id="JE-GxgBHlpS-5BZEvoe5-83" value="通信数据采用单向流，发布订阅增加易用性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="268" y="545" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-1" value="chart组件触发添加标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-2" value="通知事件总线添加标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="XV9c2cCmJDctLByYny60-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="770" as="sourcePoint" />
+            <mxPoint x="202" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XV9c2cCmJDctLByYny60-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="452" y="790" as="sourcePoint" />
+            <mxPoint x="432" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-7" value="添加标注请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-8" value="标注列表请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="653.5" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XV9c2cCmJDctLByYny60-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="582" y="800" as="sourcePoint" />
+            <mxPoint x="652" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XV9c2cCmJDctLByYny60-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="732" y="900" as="sourcePoint" />
+            <mxPoint x="714" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-11" value="callback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="566.5" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-12" value="callback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="642" y="830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-13" value="发送事件给list组件渲染列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-15" value="赋值到组件的响应式data上自动渲染到界面" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="452" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XV9c2cCmJDctLByYny60-13" target="XV9c2cCmJDctLByYny60-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="622" y="1020" as="sourcePoint" />
+            <mxPoint x="672" y="970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

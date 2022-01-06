@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T05:16:00.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="z6eD1v5psb0XA5ladpDl" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T07:36:43.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tYdhoFAiv_rKQJu3GMuq" version="16.2.1" type="github">
   <diagram id="P6MvJYWOktU1DO3npbHA" name="第 1 页">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XV9c2cCmJDctLByYny60-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="1210" width="592" height="115" as="geometry" />
+        </mxCell>
         <mxCell id="XV9c2cCmJDctLByYny60-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="710" width="602" height="120" as="geometry" />
         </mxCell>
@@ -212,6 +215,48 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="622" y="1020" as="sourcePoint" />
             <mxPoint x="672" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-18" value="chart组件触发添加标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1236" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XV9c2cCmJDctLByYny60-18" target="XV9c2cCmJDctLByYny60-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149" y="1266" as="sourcePoint" />
+            <mxPoint x="219" y="1266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-20" value="添加标注action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="1234" width="120" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-21" value="修改标注mutaions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="1235" width="118" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349" y="1266" as="sourcePoint" />
+            <mxPoint x="429" y="1266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-26" value="callback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-27" value="修改标注state" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="1236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XV9c2cCmJDctLByYny60-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549" y="1315.5" as="sourcePoint" />
+            <mxPoint x="649" y="1266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-29" value="list组件挂载标注state直接响应渲染到界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="653" y="1356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XV9c2cCmJDctLByYny60-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XV9c2cCmJDctLByYny60-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679" y="1356" as="sourcePoint" />
+            <mxPoint x="711" y="1356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

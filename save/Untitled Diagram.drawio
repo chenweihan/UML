@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T07:43:33.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cz_tjw5H2bhwvh0TSwv1" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T08:00:02.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="g5upcUHpUcTiw5_nfBkm" version="16.2.2" type="github">
   <diagram id="HXQpI8AFAVGygzaY-uvE" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
         <mxCell id="dEXukqFfbBN_6zC94aLe-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="33" y="825" width="607" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-12" value="多通道图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="dEXukqFfbBN_6zC94aLe-12" value="多通道图EEG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="920" width="177" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-15" value="单通道图A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dEXukqFfbBN_6zC94aLe-15" value="单通道QEEG图A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="33" y="641" width="607" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dEXukqFfbBN_6zC94aLe-21" value="名称&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 标记&amp;nbsp; 单通道A&amp;nbsp; &amp;nbsp;单通道B&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -70,7 +70,7 @@
         <mxCell id="VoeNjybom4H6XY1b6rgb-12" value="标记列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="188" y="1220" width="172" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="VoeNjybom4H6XY1b6rgb-13" value="单通道图B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VoeNjybom4H6XY1b6rgb-13" value="单通道QEEG图B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="33" y="734" width="607" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VoeNjybom4H6XY1b6rgb-14" value="通道1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-5" value="标记异常" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="654" y="605" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XXj9VBkdvwOhZQNCGIxi-8" value="QEEG选择通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="744" width="100" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

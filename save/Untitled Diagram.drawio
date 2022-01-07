@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T07:19:31.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tABHKzSduqiRqvSUJJdb" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T07:28:34.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="L4-mJmfD8rNXHLUJf64w" version="16.2.2" type="github">
   <diagram id="HXQpI8AFAVGygzaY-uvE" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,18 +29,15 @@
           <mxGeometry x="20" y="590" width="790" height="530" as="geometry" />
         </mxCell>
         <mxCell id="dEXukqFfbBN_6zC94aLe-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="33" y="830" width="610" height="230" as="geometry" />
+          <mxGeometry x="33" y="830" width="607" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-12" value="多通道频谱显示，弱化XY坐标，主要看波幅趋势" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="53" y="920" width="281" height="20" as="geometry" />
+        <mxCell id="dEXukqFfbBN_6zC94aLe-12" value="多通道图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="920" width="177" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="33" y="640" width="610" height="180" as="geometry" />
+        <mxCell id="dEXukqFfbBN_6zC94aLe-15" value="单通道图A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="33" y="650" width="607" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-18" value="具体选中通道的频谱区间显示&amp;nbsp; 标准XY坐标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="53" y="705" width="231" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-21" value="名称&amp;nbsp; &amp;nbsp; 开启那个图谱&amp;nbsp; &amp;nbsp;切换到标记模式" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="dEXukqFfbBN_6zC94aLe-21" value="名称&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 标记&amp;nbsp; 单通道A&amp;nbsp; &amp;nbsp;单通道B&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="33" y="600" width="761" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VoeNjybom4H6XY1b6rgb-1" value="状态栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,13 +49,10 @@
         <mxCell id="VoeNjybom4H6XY1b6rgb-3" value="min-height:600px" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="13" y="530" width="117" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VoeNjybom4H6XY1b6rgb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoeNjybom4H6XY1b6rgb-5" target="VoeNjybom4H6XY1b6rgb-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VoeNjybom4H6XY1b6rgb-5" value="面板&amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp; 标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662" y="645" width="118" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="VoeNjybom4H6XY1b6rgb-6" value="&amp;nbsp; &amp;nbsp;面板是折叠列表&lt;br&gt;标记是普通列表&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VoeNjybom4H6XY1b6rgb-6" value="40个通道勾选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662.5" y="686.5" width="117.5" height="363.5" as="geometry" />
         </mxCell>
         <mxCell id="VoeNjybom4H6XY1b6rgb-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -73,8 +67,23 @@
         <mxCell id="VoeNjybom4H6XY1b6rgb-11" value="频谱B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="22.5" y="1310" width="138" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VoeNjybom4H6XY1b6rgb-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="1220" width="175" height="300" as="geometry" />
+        <mxCell id="VoeNjybom4H6XY1b6rgb-12" value="标记列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188" y="1220" width="172" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="VoeNjybom4H6XY1b6rgb-13" value="单通道图B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="740" width="607" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VoeNjybom4H6XY1b6rgb-14" value="通道1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671.5" y="770" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VoeNjybom4H6XY1b6rgb-15" value="通道2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671.5" y="800" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VoeNjybom4H6XY1b6rgb-16" value="多通道面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="700" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VoeNjybom4H6XY1b6rgb-17" value="通道3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="830" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T03:11:56.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="f_IoTHac16kbTlOPBxZL" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T03:26:29.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fM-xyJSuLFH0GZRUVmhG" version="16.2.2" type="github">
   <diagram id="apmXh1B8-tmXU-KMJDQS" name="第 1 页">
     <mxGraphModel dx="985" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -291,6 +291,102 @@
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-117" value="tag弹出层删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-118" value="标记事件列表删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1570" as="sourcePoint" />
+            <mxPoint x="310" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1670" as="sourcePoint" />
+            <mxPoint x="310" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-125" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1579.5" as="sourcePoint" />
+            <mxPoint x="470" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-126" value="是否确认删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-127" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-128" value="是否是已存储标记" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-129" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-126" target="TZm8ICebYNsH_VxH_NXQ-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1540" as="sourcePoint" />
+            <mxPoint x="350" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-130" value="不删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="1440" width="104" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-132" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1580" as="sourcePoint" />
+            <mxPoint x="630" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-133" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="568" y="1560" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-134" value="发送请求删除请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-135" value="&lt;span&gt;编辑标记事件缓存数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-134" target="TZm8ICebYNsH_VxH_NXQ-135">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1690" as="sourcePoint" />
+            <mxPoint x="840" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-137" value="callback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1555" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-138" value="&lt;span&gt;渲染标记面板列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-139" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-135" target="TZm8ICebYNsH_VxH_NXQ-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="1690" as="sourcePoint" />
+            <mxPoint x="1080" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-140" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-128" target="TZm8ICebYNsH_VxH_NXQ-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="1500" as="sourcePoint" />
+            <mxPoint x="830" y="1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="509" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-141" value="删除图形标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-142" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TZm8ICebYNsH_VxH_NXQ-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1580" as="sourcePoint" />
+            <mxPoint x="790" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-143" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518" y="1500" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

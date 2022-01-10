@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T05:58:52.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JnMrKud258dEW5Pkl7rh" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T05:59:34.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XdgITfDYjBw4XseEKJLE" version="16.2.2" type="github">
   <diagram id="apmXh1B8-tmXU-KMJDQS" name="第 1 页">
     <mxGraphModel dx="1231" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -606,6 +606,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="2750" as="sourcePoint" />
             <mxPoint x="485" y="2700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-218" value="其他状态值响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-219" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.878;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-182" target="TZm8ICebYNsH_VxH_NXQ-218">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="2760" as="sourcePoint" />
+            <mxPoint x="630" y="2710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

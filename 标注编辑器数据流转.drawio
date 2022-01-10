@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T03:04:01.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="VPYDdjO6C61QFpW3KS4z" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T03:06:58.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nM2rjt1Py22amgR8pDW_" version="16.2.2" type="github">
   <diagram id="apmXh1B8-tmXU-KMJDQS" name="第 1 页">
     <mxGraphModel dx="985" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="440" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-19" value="鼠标拖拽标注区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1491" width="120" height="60" as="geometry" />
+          <mxGeometry x="49" y="1311" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-21" value="编辑器交互与数据流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="30" width="146" height="20" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-22" value="点击选择标注区域，弹出tag标注层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1491" width="120" height="60" as="geometry" />
+          <mxGeometry x="249" y="1311" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-26" value="标记tag类型数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="789" y="260" width="120" height="60" as="geometry" />
@@ -73,11 +73,11 @@
             <mxPoint x="759" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TZm8ICebYNsH_VxH_NXQ-33" value="选择tag，标记层打上tag,点击确定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1491" width="120" height="60" as="geometry" />
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-33" value="选择tag，标记层打上tag，点击确定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="1311" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-35" value="提交标记的数据到后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1491" width="120" height="60" as="geometry" />
+          <mxGeometry x="659" y="1311" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-37" value="渲染标记到图形界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="899" y="700" width="120" height="60" as="geometry" />
@@ -187,19 +187,19 @@
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-82" value="开启或者关闭数据标记场景" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TZm8ICebYNsH_VxH_NXQ-85" value="数据标注交互流程" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1420" width="110" height="21" as="geometry" />
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-85" value="数据标注，添加标注交互流程" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1240" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-19" target="TZm8ICebYNsH_VxH_NXQ-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="1551" as="sourcePoint" />
-            <mxPoint x="230" y="1501" as="targetPoint" />
+            <mxPoint x="189" y="1371" as="sourcePoint" />
+            <mxPoint x="239" y="1321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-33" target="TZm8ICebYNsH_VxH_NXQ-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="1631" as="sourcePoint" />
-            <mxPoint x="670" y="1581" as="targetPoint" />
+            <mxPoint x="629" y="1451" as="sourcePoint" />
+            <mxPoint x="679" y="1401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-94" value="开启或者关闭" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">

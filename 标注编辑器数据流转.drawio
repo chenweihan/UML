@@ -1,25 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T02:36:29.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="i5FYhOA9HfVBxW8Mkidi" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T02:44:44.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Odz__65bnfoNSbkLNUzU" version="16.2.2" type="github">
   <diagram id="apmXh1B8-tmXU-KMJDQS" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="699" y="500" width="160" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-2" value="标注列表数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TZm8ICebYNsH_VxH_NXQ-3" value="是否可以标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="110" height="60" as="geometry" />
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-3" value="是，数据请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="340" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-4" value="通过ID获取多通道数据第一段信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="789" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-7" value="处理后渲染到图形界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="899" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-4" target="TZm8ICebYNsH_VxH_NXQ-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="610" as="sourcePoint" />
-            <mxPoint x="680" y="490" as="targetPoint" />
+            <mxPoint x="799" y="610" as="sourcePoint" />
+            <mxPoint x="829" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-13" value="勾选某单通道图形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -44,61 +47,61 @@
           <mxGeometry x="430" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-19" value="鼠标拖拽标注区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="659" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-21" value="编辑器数据加载响应流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="40" width="146" height="20" as="geometry" />
+          <mxGeometry x="440" y="40" width="146" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-22" value="点击选择标注区域，弹出tag标注层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="459" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-19" target="TZm8ICebYNsH_VxH_NXQ-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="1260" as="sourcePoint" />
-            <mxPoint x="640" y="1210" as="targetPoint" />
+            <mxPoint x="609" y="1280" as="sourcePoint" />
+            <mxPoint x="659" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-26" value="标记tag类型数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="789" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-27" value="通过ID获取多通道数据第一段标注信息数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="719" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-3" target="TZm8ICebYNsH_VxH_NXQ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="400" as="sourcePoint" />
-            <mxPoint x="630" y="370" as="targetPoint" />
+            <mxPoint x="719" y="400" as="sourcePoint" />
+            <mxPoint x="779" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TZm8ICebYNsH_VxH_NXQ-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="370" as="sourcePoint" />
-            <mxPoint x="610" y="210" as="targetPoint" />
+            <mxPoint x="689" y="370" as="sourcePoint" />
+            <mxPoint x="759" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-33" value="选择tag，标记层打上tag,点击确定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="249" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-22" target="TZm8ICebYNsH_VxH_NXQ-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="1200" as="sourcePoint" />
-            <mxPoint x="420" y="1150" as="targetPoint" />
+            <mxPoint x="389" y="1220" as="sourcePoint" />
+            <mxPoint x="439" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-35" value="提交标记的数据到后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="49" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-33" target="TZm8ICebYNsH_VxH_NXQ-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="1180" as="sourcePoint" />
-            <mxPoint x="220" y="1130" as="targetPoint" />
+            <mxPoint x="189" y="1200" as="sourcePoint" />
+            <mxPoint x="239" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-37" value="渲染标记到图形界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="899" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-40" value="渲染完成标记绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="719" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-44" value="点击一条标记记录进入编辑器标注组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="223" y="340" width="120" height="60" as="geometry" />
@@ -115,35 +118,65 @@
             <mxPoint x="433" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TZm8ICebYNsH_VxH_NXQ-51" value="异步请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="355" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-52" value="存入缓存后期使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="789" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-26" target="TZm8ICebYNsH_VxH_NXQ-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="240" as="sourcePoint" />
-            <mxPoint x="730" y="190" as="targetPoint" />
+            <mxPoint x="829" y="240" as="sourcePoint" />
+            <mxPoint x="879" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-7" target="TZm8ICebYNsH_VxH_NXQ-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="730" as="sourcePoint" />
-            <mxPoint x="590" y="680" as="targetPoint" />
+            <mxPoint x="689" y="730" as="sourcePoint" />
+            <mxPoint x="739" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TZm8ICebYNsH_VxH_NXQ-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="470" as="sourcePoint" />
-            <mxPoint x="560" y="490" as="targetPoint" />
+            <mxPoint x="849" y="470" as="sourcePoint" />
+            <mxPoint x="709" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TZm8ICebYNsH_VxH_NXQ-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-27" target="TZm8ICebYNsH_VxH_NXQ-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="690" as="sourcePoint" />
-            <mxPoint x="500" y="640" as="targetPoint" />
+            <mxPoint x="599" y="690" as="sourcePoint" />
+            <mxPoint x="649" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-58" value="标记如果是场景触发，可以在触发的时候在加载，" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="535" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-59" value="勾选使用标记场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-60" value="展示标记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-62" value="是否可以标记" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-62" target="TZm8ICebYNsH_VxH_NXQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="480" as="sourcePoint" />
+            <mxPoint x="610" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TZm8ICebYNsH_VxH_NXQ-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-65" value="弹窗口显示原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-66" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZm8ICebYNsH_VxH_NXQ-67" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

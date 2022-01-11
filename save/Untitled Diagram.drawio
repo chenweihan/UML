@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:59:59.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QVNcGLWbyFYCn7Pl2GKn" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:07:31.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="n-EK0nTKshSpTYgbbH3-" version="16.2.4" type="github">
   <diagram id="HXQpI8AFAVGygzaY-uvE" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,10 +34,7 @@
         <mxCell id="dEXukqFfbBN_6zC94aLe-12" value="多通道图EEG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="920" width="177" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-15" value="单通道QEEG图A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="33" y="641" width="607" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dEXukqFfbBN_6zC94aLe-21" value="名称&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;（不可编辑不显示这些按钮）标记&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;单通道QEEG A图&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 单通道QEEG B图&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="dEXukqFfbBN_6zC94aLe-21" value="名称&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;（不可编辑不显示按钮）标记&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="33" y="580" width="761" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VoeNjybom4H6XY1b6rgb-1" value="状态栏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -54,9 +51,6 @@
         </mxCell>
         <mxCell id="VoeNjybom4H6XY1b6rgb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="662.5" y="686.5" width="117.5" height="363.5" as="geometry" />
-        </mxCell>
-        <mxCell id="VoeNjybom4H6XY1b6rgb-13" value="单通道QEEG图B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="33" y="734" width="607" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-1" value="&amp;nbsp; &amp;nbsp; 开始&amp;nbsp; 停止&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;医生标记&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 每段20分钟&amp;nbsp; 共&amp;nbsp; &amp;lt; 1 2 3&amp;nbsp; 4 .....12 13 14 15&amp;nbsp; &amp;gt;&amp;nbsp; 段" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="43.5" y="1018" width="590" height="30" as="geometry" />
@@ -93,6 +87,9 @@
         </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-18" value="通道3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6zeYOEKfrD3OS6WZZnP-1" value="QEEG图型展示区域（可能是一个，也可能是2个，根据下来的展示类型）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="650" width="607" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

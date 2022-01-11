@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:23:13.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fxsf7MX1C4iMzkMgRhEC" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:25:04.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="oXCqWJj8wS3B_Th0x0HL" version="16.2.4" type="github">
   <diagram id="HXQpI8AFAVGygzaY-uvE" name="Page-1">
-    <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-13" value="点击计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="683" y="820" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="s6zeYOEKfrD3OS6WZZnP-1" value="QEEG图型展示区域（可能是一个，也可能是2个，根据下来的展示类型）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s6zeYOEKfrD3OS6WZZnP-1" value="QEEG图型展示区域（可能是一个图，也可能是2个图，根据QEEG选择的类型）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="33" y="640" width="607" height="170" as="geometry" />
         </mxCell>
         <mxCell id="s6zeYOEKfrD3OS6WZZnP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

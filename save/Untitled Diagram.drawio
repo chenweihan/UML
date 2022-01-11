@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:07:31.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="n-EK0nTKshSpTYgbbH3-" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:14:59.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fJj-IdaoD2Da0Sjyrxf8" version="16.2.4" type="github">
   <diagram id="HXQpI8AFAVGygzaY-uvE" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="20" y="570" width="790" height="550" as="geometry" />
         </mxCell>
         <mxCell id="dEXukqFfbBN_6zC94aLe-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="33" y="825" width="607" height="230" as="geometry" />
+          <mxGeometry x="33" y="825" width="607" height="235" as="geometry" />
         </mxCell>
         <mxCell id="dEXukqFfbBN_6zC94aLe-12" value="多通道图EEG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="920" width="177" height="20" as="geometry" />
@@ -67,9 +67,6 @@
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="671" y="700" width="99" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XXj9VBkdvwOhZQNCGIxi-9" value="EEG通道选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="672.5" y="903" width="92.5" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-10" value="QEEG通道选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="676" y="710" width="89" height="10" as="geometry" />
         </mxCell>
@@ -79,17 +76,23 @@
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-13" value="点击计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="682" y="770" width="70" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="s6zeYOEKfrD3OS6WZZnP-1" value="QEEG图型展示区域（可能是一个，也可能是2个，根据下来的展示类型）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="640" width="607" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="s6zeYOEKfrD3OS6WZZnP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="888" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XXj9VBkdvwOhZQNCGIxi-9" value="EEG通道选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="671" y="900" width="92.5" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-15" value="通道1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="930" width="60" height="30" as="geometry" />
+          <mxGeometry x="688" y="930" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-16" value="通道2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="950" width="60" height="30" as="geometry" />
+          <mxGeometry x="688" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-18" value="通道3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="970" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="s6zeYOEKfrD3OS6WZZnP-1" value="QEEG图型展示区域（可能是一个，也可能是2个，根据下来的展示类型）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="33" y="650" width="607" height="160" as="geometry" />
+          <mxGeometry x="688" y="970" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T05:14:01.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="hZzbH8ADIeTrW54Mg2s9" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T05:38:19.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xFOXW-RLPVWQjONJKI41" version="16.2.4" type="github">
   <diagram id="HXQpI8AFAVGygzaY-uvE" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="VoeNjybom4H6XY1b6rgb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="662.5" y="686.5" width="117.5" height="363.5" as="geometry" />
         </mxCell>
-        <mxCell id="XXj9VBkdvwOhZQNCGIxi-1" value="&amp;nbsp; &amp;nbsp; 开始&amp;nbsp; 停止&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;跳转医生标记【上一个 下一个】&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 每段20分钟&amp;nbsp; 共&amp;nbsp; &amp;lt; 1 2 3&amp;nbsp; 4 .....12 13 14 15&amp;nbsp; &amp;gt;&amp;nbsp; 段" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="XXj9VBkdvwOhZQNCGIxi-1" value="&amp;nbsp; &amp;nbsp; 开始&amp;nbsp; 停止&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;跳转医生标记【上一个 下一个】&lt;/font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 每段20分钟&amp;nbsp; 共&amp;nbsp; &amp;lt; 1 2 3&amp;nbsp; 4 .....12 13 14 15&amp;nbsp; &amp;gt;&amp;nbsp; 段" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="43.5" y="1018" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXj9VBkdvwOhZQNCGIxi-2" value="正在查看" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -94,11 +94,11 @@
         <mxCell id="s6zeYOEKfrD3OS6WZZnP-7" value="选择QEEG类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="675" y="730" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="usQQ4gq69eMJ4gmAYFif-1" value="采集信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="usQQ4gq69eMJ4gmAYFif-1" value="采集信息" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="594" y="590" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="usQQ4gq69eMJ4gmAYFif-2" value="重要采集信息展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="43.5" y="1073" width="120" height="30" as="geometry" />
+        <mxCell id="usQQ4gq69eMJ4gmAYFif-2" value="重要采集信息展示" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="43.5" y="1073" width="116.5" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

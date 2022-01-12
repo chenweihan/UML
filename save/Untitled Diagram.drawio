@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T05:12:50.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QCmt39xrrjO-bkUrhlFP" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T05:14:01.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="hZzbH8ADIeTrW54Mg2s9" version="16.2.4" type="github">
   <diagram id="HXQpI8AFAVGygzaY-uvE" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="usQQ4gq69eMJ4gmAYFif-1" value="采集信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="594" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="usQQ4gq69eMJ4gmAYFif-2" value="重要采集信息展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="43.5" y="1073" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T02:41:12.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.6" etag="VasEIdLoGzHoaawXsxR7" type="github"><diagram id="kVh6gCaH22CjYTDm4LME">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-14T02:52:42.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JvxnmvoVIsHO3m0BDXYB" version="16.2.6" type="github">
+  <diagram id="kVh6gCaH22CjYTDm4LME" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-1" value="科研项目模块下字段管理添加字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-2" value="科研项目模块下项目管理添加项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-4" value="CRF标注表单的创建过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-8" value="选择字段，创建项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-10" value="CRF标注，选择科研项目或者用户如果绑定科研项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="240" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-12" value="根据科研项目选择的字段，动态渲染表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="246" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYpEm4Y_2rRrYyZCgh3-1" target="LLYpEm4Y_2rRrYyZCgh3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219" y="270" as="sourcePoint" />
+            <mxPoint x="269" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYpEm4Y_2rRrYyZCgh3-2" target="LLYpEm4Y_2rRrYyZCgh3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549" y="430" as="sourcePoint" />
+            <mxPoint x="599" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYpEm4Y_2rRrYyZCgh3-8" target="LLYpEm4Y_2rRrYyZCgh3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709" y="420" as="sourcePoint" />
+            <mxPoint x="759" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYpEm4Y_2rRrYyZCgh3-10" target="LLYpEm4Y_2rRrYyZCgh3-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="410" as="sourcePoint" />
+            <mxPoint x="479" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-17" value="提交表单数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="250" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LLYpEm4Y_2rRrYyZCgh3-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LLYpEm4Y_2rRrYyZCgh3-12" target="LLYpEm4Y_2rRrYyZCgh3-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="410" as="sourcePoint" />
+            <mxPoint x="219" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

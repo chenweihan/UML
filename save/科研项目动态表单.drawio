@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T08:25:05.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="jhaZoaq-fYPd-c9dTWU4" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T08:26:58.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="IDTI0YQWBhdHU6Zn7hLY" version="16.2.6" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="350.5" y="340" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="450" width="486" height="330" as="geometry" />
+          <mxGeometry x="174" y="454" width="486" height="330" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-15" value="字典类型列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="189" y="460" width="100" height="30" as="geometry" />
@@ -137,10 +137,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1190" width="496" height="300" as="geometry" />
+          <mxGeometry x="177" y="1300" width="496" height="300" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="820" width="496" height="330" as="geometry" />
+          <mxGeometry x="174" y="820" width="486" height="330" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-54" value="新增科研项目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="371.5" y="830" width="101" height="30" as="geometry" />
@@ -149,10 +149,16 @@
           <mxGeometry x="-180" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-57" value="名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="860" width="450" height="30" as="geometry" />
+          <mxGeometry x="194" y="870" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-58" value="字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="910" width="450" height="30" as="geometry" />
+        <mxCell id="R80JjbT5kxygmkxRh3jo-58" value="单位部门选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="911" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-59" value=".........." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-60" value="添加区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="960" width="450" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

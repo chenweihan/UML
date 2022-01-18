@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T08:22:46.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fjn2J9dWequmpGRcWdSh" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T08:25:05.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="jhaZoaq-fYPd-c9dTWU4" version="16.2.6" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-2" value="新建字典类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359" y="30" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-3" value="新建字典类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-5" value="名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="80" width="415" height="30" as="geometry" />
@@ -24,18 +21,6 @@
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-8" value="+范围值（key,value）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="230" width="415" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-9" value="字典列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="203" y="-690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-10" value="添加字典" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R80JjbT5kxygmkxRh3jo-3" target="R80JjbT5kxygmkxRh3jo-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="-490" as="sourcePoint" />
-            <mxPoint x="210" y="-540" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-12" value="正则验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="280" width="415" height="30" as="geometry" />
@@ -144,6 +129,30 @@
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-50" value="添加字典类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="R80JjbT5kxygmkxRh3jo-50" target="R80JjbT5kxygmkxRh3jo-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="420" as="sourcePoint" />
+            <mxPoint x="790" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="1190" width="496" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="820" width="496" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-54" value="新增科研项目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="830" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-56" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-57" value="名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R80JjbT5kxygmkxRh3jo-58" value="字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="910" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

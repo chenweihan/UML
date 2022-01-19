@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T02:43:54.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WpYkXWp32OqeM3oqn0Pt" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T02:44:07.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Si_WD-xXgTTR1WTSskNZ" version="16.2.7" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="R80JjbT5kxygmkxRh3jo-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="80" width="110" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-31" value="字段类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R80JjbT5kxygmkxRh3jo-31" value="字典类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-32" value="文本输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

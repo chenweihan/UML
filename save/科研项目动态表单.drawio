@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T01:45:41.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8_9ZTlgC1ByraJxNM9le" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T01:54:06.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xKGTUtg1w5_19zCDpY8B" version="16.2.7" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="R80JjbT5kxygmkxRh3jo-62" value="疼痛监测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="367" y="1239" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-63" value="弹窗输入：疼痛监测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R80JjbT5kxygmkxRh3jo-63" value="弹窗输入：个人信息与疼痛监测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1004.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="R80JjbT5kxygmkxRh3jo-60" target="R80JjbT5kxygmkxRh3jo-63" edge="1">
@@ -390,6 +390,9 @@
             <mxPoint x="580" y="1500" as="sourcePoint" />
             <mxPoint x="630" y="1450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hwp9bpwohQiyZxnS4AHd-33" value="验证不能为空" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="677" y="1400" width="93" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

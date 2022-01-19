@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T01:54:06.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xKGTUtg1w5_19zCDpY8B" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T01:59:19.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Jip5VCFXTAIquif9_FwV" version="16.2.7" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,8 +238,8 @@
         <mxCell id="R80JjbT5kxygmkxRh3jo-94" value="下面为用户录入界面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="824" y="1830" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-95" value="CRF信息录入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="811" y="1950" width="104" height="30" as="geometry" />
+        <mxCell id="R80JjbT5kxygmkxRh3jo-95" value="CRF信息录入 | 编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="811" y="1950" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-97" value="科研项目下拉或者选中" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="812" y="2000" width="416" height="30" as="geometry" />

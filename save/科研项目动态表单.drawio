@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T01:08:38.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ML_UdjC8f9j9a6PWsVXK" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T01:09:15.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LxfltgAL-Lo_ERqWKBkT" version="16.2.7" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,8 +178,8 @@
         <mxCell id="R80JjbT5kxygmkxRh3jo-70" value="添加字典" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1165" y="960" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-71" value="字典列表下拉选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="1002" width="110" height="28" as="geometry" />
+        <mxCell id="R80JjbT5kxygmkxRh3jo-71" value="字典类型列表下拉选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="1002" width="140" height="28" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="R80JjbT5kxygmkxRh3jo-71" target="R80JjbT5kxygmkxRh3jo-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

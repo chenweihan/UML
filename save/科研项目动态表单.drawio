@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T01:41:21.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="NfcDszlCVhXtxSw6YYLW" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T01:42:48.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fT94ypa2wSmiqpbc2nKX" version="16.2.7" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,13 +20,13 @@
           <mxGeometry x="379" y="240" width="415" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;范围值枚举（value）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="379" y="290" width="415" height="30" as="geometry" />
+          <mxGeometry x="379" y="289" width="415" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-12" value="正则验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="379" y="340" width="415" height="30" as="geometry" />
+          <mxGeometry x="378" y="377" width="422" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-13" value="保存" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="522" y="410" width="127" height="30" as="geometry" />
+          <mxGeometry x="523" y="430" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="344" y="514" width="486" height="330" as="geometry" />
@@ -387,6 +387,9 @@
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-30" value="查看，编辑，删除" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705" y="1532" width="107" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hwp9bpwohQiyZxnS4AHd-31" value="默认值（是否有）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="333" width="421" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

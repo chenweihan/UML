@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T08:30:16.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="I7RGU4q83F71XZA_p6lP" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T08:33:26.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iWKPW9NisvtdFC42xSuB" version="16.3.0" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
         <mxCell id="R80JjbT5kxygmkxRh3jo-109" value="监测结束时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="932" y="2451" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-111" value="疼痛选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R80JjbT5kxygmkxRh3jo-111" value="疼痛等级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1046" y="2451" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-112" value="提交" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -424,41 +424,41 @@
         <mxCell id="p93Qv9RN3_YeRhzhcpTn-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="827" y="2490" width="383" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-20" value="11：20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="2500" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-20" value="监测开始时间输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2501" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-21" value="11：30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="2500" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-21" value="监测结束时间输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="2502" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-22" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-22" value="&amp;nbsp;疼痛选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="2501" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-23" value="11：30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="2530" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-23" value="监测开始时间输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-24" value="11：35" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="942" y="2530" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-24" value="监测结束时间输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="942" y="2540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-25" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="2530" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-25" value="&amp;nbsp;疼痛选择&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%E7%96%BC%E7%97%9B%E9%80%89%E6%8B%A9%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3Bdashed%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221050%22%20y%3D%222501%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-26" value="11：50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="841" y="2560" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-26" value="监测开始时间输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-27" value="11：55" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="942" y="2560" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-27" value="监测结束时间输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="942" y="2579" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-28" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="2560" width="60" height="30" as="geometry" />
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-28" value="&amp;nbsp;疼痛选择&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%E7%96%BC%E7%97%9B%E9%80%89%E6%8B%A9%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3Bdashed%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221050%22%20y%3D%222501%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p93Qv9RN3_YeRhzhcpTn-29" value="删除" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="2501" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p93Qv9RN3_YeRhzhcpTn-30" value="删除" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="2530" width="60" height="30" as="geometry" />
+          <mxGeometry x="1140" y="2540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p93Qv9RN3_YeRhzhcpTn-31" value="删除" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="2560" width="60" height="30" as="geometry" />
+          <mxGeometry x="1140" y="2580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T08:21:58.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ERo1XaT8ROjtLo_LzIib" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T08:22:33.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="gZEIhcl8wdRDdAcZr-yN" version="16.3.0" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,10 +400,10 @@
         <mxCell id="hwp9bpwohQiyZxnS4AHd-68" value="年龄" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1054" y="2290" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-1" value="多列展示还是表展示（表自带新增行功能）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-1" value="列展示还是表展示（表自带新增行功能）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1154" y="1341" width="236" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="p93Qv9RN3_YeRhzhcpTn-2" value="多列展示" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="p93Qv9RN3_YeRhzhcpTn-2" value="列展示" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="1128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p93Qv9RN3_YeRhzhcpTn-3" value="表展示" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">

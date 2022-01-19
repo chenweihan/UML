@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T01:06:20.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fXaFVRnYt3uTtTQKPZ7i" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T01:08:38.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ML_UdjC8f9j9a6PWsVXK" version="16.2.7" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
           <mxGeometry x="363" y="1017" width="450" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="1229" width="446" height="210" as="geometry" />
+          <mxGeometry x="363" y="1229" width="437" height="141" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-62" value="疼痛监测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="367" y="1239" width="60" height="30" as="geometry" />
@@ -342,6 +342,9 @@
             <mxPoint x="980" y="1450" as="sourcePoint" />
             <mxPoint x="1030" y="1400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hwp9bpwohQiyZxnS4AHd-13" value="保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T07:40:54.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="TSTOpyHfB4v3sh-1e5mU" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T08:43:19.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4wRkg-lFbWQS2gAtltNJ" version="16.3.0" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -469,7 +469,7 @@
         <mxCell id="-X5JycdagFnz91TCmLEN-4" value="添加项目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="739" y="1635" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-X5JycdagFnz91TCmLEN-6" value="正则错误提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-X5JycdagFnz91TCmLEN-6" value="验证错误提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="390" width="422" height="30" as="geometry" />
         </mxCell>
       </root>

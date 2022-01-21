@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T02:31:25.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="69Y-TCUQZk3ilcuWSx2Q" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T02:33:16.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mAzuGg7jd49KE9uUkhYk" version="16.4.2" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1778" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,13 +230,13 @@
           <mxGeometry x="812" y="2140" width="416" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-98" value="单位部门展示（不可编辑）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="812" y="2190" width="414" height="30" as="geometry" />
+          <mxGeometry x="812" y="2187" width="418" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="811" y="2235" width="415" height="135" as="geometry" />
+          <mxGeometry x="811" y="2270" width="415" height="100" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-100" value="个人信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="826" y="2240" width="60" height="30" as="geometry" />
+          <mxGeometry x="826" y="2280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="2390" width="416" height="260" as="geometry" />
@@ -389,16 +389,16 @@
           <mxGeometry x="1140" y="2451" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="820" y="2280" width="380" height="70" as="geometry" />
+          <mxGeometry x="826" y="2320" width="386" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-66" value="姓名：张三" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="836" y="2290" width="100" height="25" as="geometry" />
+          <mxGeometry x="842" y="2330" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-67" value="性别选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="945" y="2290" width="100" height="25" as="geometry" />
+          <mxGeometry x="951" y="2330" width="105" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-68" value="年龄" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1054" y="2290" width="100" height="25" as="geometry" />
+          <mxGeometry x="1056" y="2330" width="104" height="25" as="geometry" />
         </mxCell>
         <mxCell id="p93Qv9RN3_YeRhzhcpTn-1" value="列展示还是表展示（表自带新增行功能）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1154" y="1341" width="236" height="29" as="geometry" />
@@ -510,6 +510,9 @@
         </mxCell>
         <mxCell id="jcujZCJO9QJr4Bx7qhq5-11" value="翻页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="3100" width="855" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-12" value="病例日期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="811" y="2230" width="419" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

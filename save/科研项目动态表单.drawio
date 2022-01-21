@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T02:23:46.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nfTwpqLuHWbwzlybVDwX" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T02:31:25.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="69Y-TCUQZk3ilcuWSx2Q" version="16.4.2" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,10 +226,10 @@
         <mxCell id="R80JjbT5kxygmkxRh3jo-95" value="CRF信息录入 | 编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="811" y="2090" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-97" value="科研项目下拉或者选中" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R80JjbT5kxygmkxRh3jo-97" value="科研项目展示（不可编辑）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="812" y="2140" width="416" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-98" value="单位部门下拉或者选中" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R80JjbT5kxygmkxRh3jo-98" value="单位部门展示（不可编辑）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="812" y="2190" width="414" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -475,14 +475,41 @@
         <mxCell id="jcujZCJO9QJr4Bx7qhq5-1" value="还需要增加宽度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcujZCJO9QJr4Bx7qhq5-3" value="CRF上传源数据前是否已经关联&lt;br&gt;科研项目了？？？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="2040" width="230" height="150" as="geometry" />
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-3" value="CRF上传源数据前是否已经关联&lt;br&gt;科研项目了？&lt;br&gt;在上传CRF信息的时候，就已经要求选择科研项目和单位部门" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="2110" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jcujZCJO9QJr4Bx7qhq5-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R80JjbT5kxygmkxRh3jo-97" target="jcujZCJO9QJr4Bx7qhq5-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="2180" as="sourcePoint" />
             <mxPoint x="1350" y="2130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R80JjbT5kxygmkxRh3jo-98" target="jcujZCJO9QJr4Bx7qhq5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="2270" as="sourcePoint" />
+            <mxPoint x="1310" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="2820" width="924" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.226;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jcujZCJO9QJr4Bx7qhq5-6" target="R80JjbT5kxygmkxRh3jo-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="2810" as="sourcePoint" />
+            <mxPoint x="910" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-8" value="CRF管理列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="2840" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-9" value="筛选器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="2870" width="851" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-10" value="列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="2930" width="851" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-11" value="翻页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="3100" width="855" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

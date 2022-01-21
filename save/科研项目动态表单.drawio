@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T02:08:39.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="deOJRLIuCU-SwkXA7gRj" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T02:23:46.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nfTwpqLuHWbwzlybVDwX" version="16.4.2" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,6 +474,15 @@
         </mxCell>
         <mxCell id="jcujZCJO9QJr4Bx7qhq5-1" value="还需要增加宽度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-3" value="CRF上传源数据前是否已经关联&lt;br&gt;科研项目了？？？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2040" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jcujZCJO9QJr4Bx7qhq5-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R80JjbT5kxygmkxRh3jo-97" target="jcujZCJO9QJr4Bx7qhq5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="2180" as="sourcePoint" />
+            <mxPoint x="1350" y="2130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

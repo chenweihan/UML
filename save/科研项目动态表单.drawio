@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T09:01:53.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ASg7RdWvjYiiPhItCP59" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T02:13:09.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="rH-_SgHAO1kvKUPST-8i" version="16.4.6" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
           <mxGeometry x="364" y="930" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-58" value="单位部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="972" width="450" height="30" as="geometry" />
+          <mxGeometry x="364" y="972" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-59" value=".........." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="810" width="60" height="30" as="geometry" />
@@ -199,7 +199,7 @@
         <mxCell id="R80JjbT5kxygmkxRh3jo-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="363" y="1120" width="449" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="R80JjbT5kxygmkxRh3jo-83" value="个人信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R80JjbT5kxygmkxRh3jo-83" value="病例信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="378" y="1128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R80JjbT5kxygmkxRh3jo-89" value="下拉选择展示方式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -362,7 +362,7 @@
           <mxGeometry x="456" y="1920" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-37" value="病例日期" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="1020" width="447" height="30" as="geometry" />
+          <mxGeometry x="550" y="1210" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R80JjbT5kxygmkxRh3jo-60" target="hwp9bpwohQiyZxnS4AHd-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T02:13:28.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="3fWgka5Jvdtn-S0BYbXU" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T02:47:11.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sbtQ9KmhmMhbe9yMavDY" version="16.4.6" type="github">
   <diagram id="41u_-NUPP1dkI3h0Sr1O" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,6 +360,9 @@
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-34" value="还需要考虑一个简化版？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="456" y="1920" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4_DTpM9OwvYK0AdiyqRj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwp9bpwohQiyZxnS4AHd-37" target="hwp9bpwohQiyZxnS4AHd-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hwp9bpwohQiyZxnS4AHd-37" value="病例日期" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="1210" width="130" height="30" as="geometry" />
